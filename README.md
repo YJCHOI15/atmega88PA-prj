@@ -68,5 +68,6 @@ AVR Libc만을 사용하여 C언어로 모든 펌웨어를 직접 작성했으�
 
 ## 5. 동작 시연 사진
 
-![Uploading Screenshot_20250919_234529_Gallery.jpg…]()
+![Screenshot_20250919_234529_Gallery](https://github.com/user-attachments/assets/da3cab47-7523-41ac-b3f1-cf0b19e5bcdf)
+
 
